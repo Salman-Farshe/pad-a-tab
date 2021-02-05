@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
+
+canvas[resize] {
+  width: 100%;
+  height: auto; }
+
+html, body {
+  max-width: 100%;
+  min-height: auto; }
