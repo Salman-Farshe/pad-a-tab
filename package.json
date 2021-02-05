@@ -1,0 +1,16 @@
+{
+  "name": "project-57-pad-tab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss css/style.css"
+  },
+  "author": "Salman Farshe",
+  "license": "ISC",
+  "dependencies": {
+    "howler": "^2.2.1",
+    "node-sass": "^5.0.0",
+    "paper": "^0.12.11"
+  }
+}
